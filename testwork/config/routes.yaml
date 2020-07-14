@@ -1,0 +1,2 @@
+app_directory:
+    resource: '../src/TestWorkBundle/Resources/config/routes.yml'

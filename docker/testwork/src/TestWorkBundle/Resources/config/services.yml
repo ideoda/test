@@ -1,0 +1,9 @@
+parameters:
+
+services:
+
+  App\TestWorkBundle\Connector\TwitterConnector:
+
+  TwitterAPI\TwitterAPIExchange:
+
+  Symfony\Component\HttpClient\CurlHttpClient:
